@@ -14,7 +14,7 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "https://portfolio-2024-images.s3.us-east-2.amazonaws.com/about.jpeg"
     },
     "skills": {
       "icons": [
