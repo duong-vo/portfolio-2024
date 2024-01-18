@@ -9,9 +9,9 @@
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://linkedin.com/in/duonghvo",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "https://portfolio-2024-images.s3.us-east-2.amazonaws.com/about.jpeg"

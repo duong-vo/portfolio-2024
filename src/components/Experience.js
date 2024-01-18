@@ -37,7 +37,7 @@ class Experience extends Component {
               color: "#fff",
               textAlign: "center",
             }}
-            icon={<i className="fab fa-angular experience-icon"></i>}
+            icon={i === 0 ? <i className="devicon-rails-plain-wordmark timeline-icon"></i> : <i class="fab fa-react experience-icon"></i>}
             key={i}
           >
             <div style={{ textAlign: "left", marginBottom: "4px" }}>
