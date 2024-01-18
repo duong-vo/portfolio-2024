@@ -19,23 +19,33 @@
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
+          "name": "Ruby on Rails",
+          "class": "devicon-rails-plain-wordmark",
           "level": "95"
         },
         {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
+          "name": "Django",
+          "class": "devicon-django-plain",
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "React",
+          "class": "devicon-react-original",
           "level": "80"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
+          "name": "jQuery",
+          "class": "devicon-jquery-plain",
+          "level": "80"
+        },
+        {
+          "name": "Flutter",
+          "class": "devicon-flutter-plain",
+          "level": "90"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
           "level": "90"
         },
         {
@@ -44,25 +54,70 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
-        },
-        {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
           "level": "65"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "75"
+        },
+        {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "85"
+        },
+        {
+          "name": "HTML",
+          "class": "devicon-html5-plain",
+          "level": "65"
+        },
+        {
+          "name": "CSS",
+          "class": "devicon-css3-plain",
+          "level": "65"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "60"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "60"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "level": "60"
+        },
+        {
+          "name": "Firebase",
+          "class": "devicon-firebase-plain",
+          "level": "60"
+        },
+        {
+          "name": "Google Cloud",
+          "class": "devicon-googlecloud-plain",
+          "level": "60"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "60"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "60"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
           "level": "60"
         }
       ]
     }
-  }
+}
