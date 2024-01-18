@@ -21,16 +21,16 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original colored",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
+            "class": "devicon-express-original colored",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-typescript-plain colored",
             "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
           }
         ]
       },
@@ -44,12 +44,21 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-django-plain colored",
+            "name": "Django"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-python-plain colored",
+            "name": "Python"
+          },
+
+          {
+            "class": "devicon-flutter-plain colored",
+            "name": "Flutter"
+          },
+          {
+            "class": "devicon-firebase-plain colored",
+            "name": "Firebase"
           }
         ]
       },
@@ -64,16 +73,24 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original colored",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
+            "class": "devicon-nodejs-plain colored",
+            "name": "Node"
+          },
+          {
+            "class": "devicon-typescript-plain colored",
             "name": "TypeScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-socketio-original colored",
+            "name": "socketio"
+          },
+          {
+            "class": "devicon-mongodb-plain colored",
+            "name": "MongoDB"
           }
         ]
       }
