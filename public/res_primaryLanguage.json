@@ -13,7 +13,7 @@
       {
         "title": "InsurAI",
         "startDate": "2023",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "I Worked in a team of 4 to build an AI Chatbot using CohereAI API that can answers EOC related questions. This project was selected as the winner of Best AI-Driven Healthcare Explanation of Coverage Customer Care Solutions at MakeUC 2023.",
         "images": [
           "https://portfolio-2024-images.s3.us-east-2.amazonaws.com/insurai1.jpeg",
           "https://portfolio-2024-images.s3.us-east-2.amazonaws.com/insurai2.jpeg"
@@ -37,7 +37,7 @@
       {
         "title": "PaperPing",
         "startDate": "2023",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "Worked in a team of 4 to build a research paper tracker powered by MetaphorAPI to send users the latest papers they are interested in everyday. This project was submitted to PennApps XXIV and was selected by Wolfram Research (a sponsor of PennApps)  as a recipient of the Wolfram Research Award.",
         "images": [
           "https://portfolio-2024-images.s3.us-east-2.amazonaws.com/paperping.jpeg"
         ],
@@ -65,7 +65,7 @@
       {
         "title": "CodeCollab",
         "startDate": "2023",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "My hobby project during the Spring 2023 semester. I built a collaborative code editor using React, Node.js, SocketIO, and MongoDB which can be used for coding interviews, code reviews, and many others.",
         "images": [
           "https://portfolio-2024-images.s3.us-east-2.amazonaws.com/codecollab1.png",
           "https://portfolio-2024-images.s3.us-east-2.amazonaws.com/codecollab2.png"
