@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Duong (Jay Vo) Vo. I'm a junior computer science major at Miami University while working as a junior software engineer at Rakuna. I have extensive expereince in fullstack web development through my internships and hackathons. I strive to leave an impact on the world with the power of technology.",
+      "description": "👋 I'm Duong (Jay Vo) Vo, a junior at Miami University studying computer science and working as a junior software engineer at Rakuna. I've gained a lot of experience in full-stack web development through internships and hackathons. I'm all about using technology to make a real difference in the world.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -13,7 +13,7 @@
       {
         "title": "InsurAI",
         "startDate": "2023",
-        "description": "I Worked in a team of 4 to build an AI Chatbot using CohereAI API that can answers EOC related questions. This project was selected as the winner of Best AI-Driven Healthcare Explanation of Coverage Customer Care Solutions at MakeUC 2023.",
+        "description": "I worked in a team of 4 to build an AI Chatbot using CohereAI API that can answers EOC related questions. This project was selected as the winner of Best AI-Driven Healthcare Explanation of Coverage Customer Care Solutions at MakeUC 2023.",
         "images": [
           "https://portfolio-2024-images.s3.us-east-2.amazonaws.com/insurai1.jpeg",
           "https://portfolio-2024-images.s3.us-east-2.amazonaws.com/insurai2.jpeg"
@@ -37,7 +37,7 @@
       {
         "title": "PaperPing",
         "startDate": "2023",
-        "description": "Worked in a team of 4 to build a research paper tracker powered by MetaphorAPI to send users the latest papers they are interested in everyday. This project was submitted to PennApps XXIV and was selected by Wolfram Research (a sponsor of PennApps)  as a recipient of the Wolfram Research Award.",
+        "description": "I worked in a team of 4 to build a research paper tracker powered by MetaphorAPI to send users the latest papers they are interested in everyday. This project was submitted to PennApps XXIV and was selected by Wolfram Research (a sponsor of PennApps)  as a recipient of the Wolfram Research Award.",
         "images": [
           "https://portfolio-2024-images.s3.us-east-2.amazonaws.com/paperping.jpeg"
         ],
